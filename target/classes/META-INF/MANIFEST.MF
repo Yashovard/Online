@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: OnlineSurveyPortal
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Yash
+Implementation-Vendor-Id: com.sst.onlinesurvey
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/Online/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
